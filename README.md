@@ -4,7 +4,7 @@ cssbattle.dev solutions formatted just to give ideas ^^
 It's not perfect solutions but it get a 100% match score for each one
 
 # Battle Rank (26/06/2022)
-- Battle #19 : 24th / 2241
+- Battle #19 : 24th / 2297
 - Battle #18 : none
 - Battle #17 : none
 - Battle #16 : none
@@ -25,4 +25,4 @@ It's not perfect solutions but it get a 100% match score for each one
 - Battle #1 : none
 
 # Global Rank (26/06/2022)
-- 7413th / 205634
+- 4788th / 205745
