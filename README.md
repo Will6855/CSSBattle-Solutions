@@ -9,3 +9,4 @@ It's not perfect solutions but it get a 100% match score for each one
 
 # Global Rank (29/06/2022)
 - 2205th / 206823
+- 44 / 116 Targets Played
