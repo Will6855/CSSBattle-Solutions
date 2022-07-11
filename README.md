@@ -8,5 +8,4 @@ It's not perfect solutions but it get a 100% match score for each one
 - Battle #1 to Battle #18: none
 
 # Global Rank (10/07/2022)
-- 477th / 211527
-- 83 / 116 Targets Played
+- 122nd / 212094
