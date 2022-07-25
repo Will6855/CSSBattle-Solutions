@@ -7,5 +7,5 @@ It's not perfect solutions but it get a 100% match score for each one
 - Battle #19 : 25th / 3828
 - Battle #1 to Battle #18: none
 
-# Global Rank (11/07/2022)
-- 122nd / 212094
+# Global Rank (25/07/2022)
+- 65th / 212094
