@@ -12,5 +12,5 @@ It's not perfect solutions but it get a 100% match score for each one
 - Battle #19 : 25th / 3828
 - Battle #1 to Battle #18: DNP
 
-# Global Rank (16/04/2023)
+# Global Rank (22/04/2023)
 - 20th / 289009
